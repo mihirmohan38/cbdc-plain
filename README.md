@@ -39,3 +39,10 @@ A repository created for the XSGD-CBDC demo
     
     - Go to settings and ensure ensure you are serving on `port 8545` 
 
+    ![screenshot](./readme_screenshots/port.png)
+
+5. Grab the private keys (two keys) generated from the Ganache GUI
+
+![screenshot](./readme_screenshots/account.png)
+
+6. Replace existing private keys for `bob` (line 18) and `sally` (line 21) in `./test/demo.js`. 
