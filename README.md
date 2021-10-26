@@ -8,6 +8,10 @@ A repository created for the XSGD-CBDC demo
 
 1. Node 
 
+2. Truffle 
+
+3. Yarn 
+
 ### Getting started
 
 1. Start up Ganache GUI on `port 8545` , look at `setting up ganache GUI below`
